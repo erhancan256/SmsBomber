@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js",
-    "start": "node index.js"
+    "test": "node index.js",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "Borislav Qenzy /ErhanCan256",
