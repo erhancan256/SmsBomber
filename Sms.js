@@ -1,5 +1,5 @@
 var request=require("request")
-var self=require("./Var.js")
+var self=require("./var.js")
 async function Sms(phone,is)
 {
 	if(is=="true")
