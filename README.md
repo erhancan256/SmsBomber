@@ -6,7 +6,7 @@
 <br><br>
 <h4>Kurulum</h4>
 <span>
-  <br><br>
+  <br>
     -npm i https://github.com/erhancan256/SmsBomber<br>
     -cd SmsBomber<br>
     -npm install<br>
@@ -15,9 +15,9 @@
 </span>
 <br><br>
 
-<h4>Kullanımı</h4>>
+<h4>Kullanımı</h4>
 <span>
-  <br><br>
+  <br>
     -http://localhost:5000/ url açınız server açıksa<br>
     -https://localhost:5000/sms/api/v1 url kısımına {phone} get ediniz<br>
     -örnek https://localhost:5000/sms/api/v1/?phone=5554442211<br>
