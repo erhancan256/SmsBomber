@@ -17,4 +17,8 @@
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
+  ,
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
