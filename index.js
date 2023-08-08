@@ -1,6 +1,6 @@
 var express=require("express")
 var app=express()
-var Arr=require("./Var.js")
+var Arr=require("./var.js")
 var Sms=require("./Sms.js")
 const PORT = 5000;
 app.listen(PORT ||process.ENV.PORT,(listen)=>{
